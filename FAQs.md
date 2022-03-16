@@ -51,3 +51,5 @@ You will be asked to register your purchase on the wiley website, which requires
 ### Can I access online practice quizzes if I purchased the Kindle version?
 
 Yes you can! The instructions are INDENTICAL (exactly the same) for EVERY e-book platform. Anyone who says "no" is simply not following the instructions in the Sybex book. See the FAQ regarding registration and saccess to the online resources.
+
+[back to menu](#frequently-asked-questions)
