@@ -1,7 +1,10 @@
-Resources
+# Resources
 
+Video and other learning resources will be listed here.
 
-CISSP Exam Cram - Full Course 2022 Update (YouTube)
+## CISSP Exam Cram - Full Course 2022 Update (YouTube)
+
+Below is a more detailed table of contents with direct links to specific points in the video.
 
 00:05:15 CAT exam format and changes 
 00:07:02 Exam Prep Strategy
