@@ -7,7 +7,9 @@
 
 ### What score on practice quizzes is good enough? 
 
-The score required to pass the exam is 70%, and the questions on the exam are more difficult than those on the practice quiz. For that reason, I would suggest completing all the questions at the end of each chapter, aiming for a score of at least 80-85%. Additionally, read the explanations of the questions you miss and do some reading on those topics from the official study guide. Repeat the process until your practice quiz results meet the 80-85% bar.
+The score required to pass the exam is 70%, and the questions on the actual exam are more difficult than those on the practice quiz. For that reason, I would suggest completing all the questions at the end of each chapter, aiming for a score of 85-90%. The recommendation in the official study guide is 90% for exam readiness). 
+
+After each quiz, read the explanations of the questions you miss and do some targeted reading on those specific topics from the official study guide. Repeat the process until your practice quiz results meet the 85-90% bar. This is the "80/20 strategy" I explain in the video.
 
 [back to menu](#frequently-asked-questions)
 
@@ -17,7 +19,7 @@ The online resources (test bank) for the Official CISSP Study Guide allow you to
 
 A complete list of book chapter to exam domain mappings is shown in the figure below.
 
-![cissp chapters mappings](\images\chap2domain.png)
+![cissp chapters mappings](/images/chap2domain.png)
 
 [back to menu](#frequently-asked-questions)
 
@@ -33,3 +35,6 @@ The short answer is "no". Before June 1, 2022, the exam contains 25 pretest (uns
 
 ### How do I access the online resources that come wtih the CISSP exam study guide? 
 
+
+
+[back to menu](#frequently-asked-questions)
