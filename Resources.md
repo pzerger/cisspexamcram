@@ -6,7 +6,7 @@ Video and other learning resources will be listed here.
 
 Below is a more detailed table of contents with direct links to specific points in the video.
 
-- [Full course (from the beginning)](https://youtu.be/qMScJnHaC9s)
+- [Full course (from the beginning) ~8 hours](https://youtu.be/qMScJnHaC9s)
     - [00:05:15 CAT exam format and changes](https://youtu.be/qMScJnHaC9s?t=315) 
     - [00:07:02 Exam Prep Strategy](https://youtu.be/qMScJnHaC9s?t=422)
     - [00:07:49 How to "think like a manager"](https://youtu.be/qMScJnHaC9s?t=469)
@@ -21,4 +21,11 @@ Below is a more detailed table of contents with direct links to specific points 
 - [05:44:56 DOMAIN 7 - Security Operations](https://youtu.be/qMScJnHaC9s?t=20696)
 - [07:07:48 DOMAIN 8 - Software Development Security](https://youtu.be/qMScJnHaC9s?t=25668)
 
+## CISSP Exam Cram - Supplemental Videos (YouTube)
 
+Below are some of the supplemental videos for the series that drill-down on specific areas of CISSP content.
+
+- How to think Like a manager 
+- Quantitative Risk Analysis - Just the Formulas
+- Attacks and Countermeasures 
+- Physical Security
