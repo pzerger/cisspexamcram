@@ -11,7 +11,7 @@ Below is a more detailed table of contents with direct links to specific points 
     - [00:07:02 Exam Prep Strategy](https://youtu.be/qMScJnHaC9s?t=422)
     - [00:07:49 How to "think like a manager"](https://youtu.be/qMScJnHaC9s?t=469)
 - [00:22:55 DOMAIN 1 - Security and Risk Management](https://youtu.be/qMScJnHaC9s?t=1375)
-    - [00:22:55 Quantitative Risk Analysis](https://youtu.be/qMScJnHaC9s?t=1375)
+    - [00:27:30 Risk Analysis](https://youtu.be/qMScJnHaC9s?t=1650)
 - [01:24:15 DOMAIN 2 - Asset Security](https://youtu.be/qMScJnHaC9s?t=5055)
 - [01:39:26 DOMAIN 3 - Security Architecture and Engineering](https://youtu.be/qMScJnHaC9s?t=5966)
     - [02:46:05 Security Models](https://youtu.be/qMScJnHaC9s?t=9965)
