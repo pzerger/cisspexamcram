@@ -4,6 +4,7 @@
 - [How do I test my readiness for a specific domain?](#how-do-i-test-my-readiness-for-a-specific-domain)
 - [Do the changes coming to the CAT Exam affect how I prepare?](#do-the-changes-coming-to-the-cat-exam-affect-how-i-prepare)
 - [How do I access the online resources that come wtih the CISSP exam study guide?](#how-do-i-access-the-online-resources-that-come-wtih-the-cissp-exam-study-guide) 
+- [Can I access online practice quizzes if I purchased the Kindle version?](#can-i-access-online-practice-quizzes-if-i-purchased-the-kindle-version)
 
 ### What score on practice quizzes is good enough? 
 
@@ -35,6 +36,18 @@ The short answer is "no". Before June 1, 2022, the exam contains 25 pretest (uns
 
 ### How do I access the online resources that come wtih the CISSP exam study guide? 
 
+Per the instructions in the book, you need to register your purchase at www.wiley.com/go/sybextestprep.
 
+You will be asked to:
+
+- register on the wiley website.
+- reply to a random challenge question using content from within the book.
+-
+
+**NOTE:** I will post a video with **step-by-step instructions** the week ending March 18th, 2022.
 
 [back to menu](#frequently-asked-questions)
+
+### Can I access online practice quizzes if I purchased the Kindle version?
+
+Yes you can! The instructions are INDENTICAL (exactly the same) for EVERY e-book platform. Anyone who says "no" is simply not following the instructions in the Sybex book. See the FAQ regarding registration and access to the online resources.
