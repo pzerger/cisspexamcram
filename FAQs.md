@@ -38,11 +38,11 @@ The short answer is "no". Before June 1, 2022, the exam contains 25 pretest (uns
 
 Per the instructions in the book, you need to register your purchase at www.wiley.com/go/sybextestprep.
 
-You will be asked to:
+You will be asked to register your purchase on the wiley website, which requires you to:
 
-- register on the wiley website.
-- reply to a random challenge question using content from within the book.
--
+- Reply to a random challenge question using content from within the book.
+- Retrieve the PIN number sent to your email address. 
+- Click the link the same email and type or paste the PIN into the window provided.
 
 **NOTE:** I will post a video with **step-by-step instructions** the week ending March 18th, 2022.
 
@@ -50,4 +50,4 @@ You will be asked to:
 
 ### Can I access online practice quizzes if I purchased the Kindle version?
 
-Yes you can! The instructions are INDENTICAL (exactly the same) for EVERY e-book platform. Anyone who says "no" is simply not following the instructions in the Sybex book. See the FAQ regarding registration and access to the online resources.
+Yes you can! The instructions are INDENTICAL (exactly the same) for EVERY e-book platform. Anyone who says "no" is simply not following the instructions in the Sybex book. See the FAQ regarding registration and saccess to the online resources.
