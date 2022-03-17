@@ -22,7 +22,7 @@ Homework from week 2 is:
 2.	Watch [DOMAIN 2](https://youtu.be/qMScJnHaC9s?t=5055) from my updated CISSP Exam Cram course. 
 3.	Take another practice quiz of Domain 2 (chapter 5) questions. How did you do?
 
-**SESSION REPLAY:** Video available [HERE](https://youtu.be/qMScJnHaC9s)
+**SESSION REPLAY:** Video available [HERE](https://youtu.be/Y7YfwYzHWa0)
 
 **NOTE ON PRACTICE QUIZZES:** I think the practices quizzes that come with the Official CISSP Study Guide are all you need prepare for the exam. However, if you want more, I am a fan of [Pocket Prep](https://www.pocketprep.com/exams/isc2-cissp/?ref=peterzerger) for their mobile experience, per-domain scoring, answer explanations, re-take options, and small price tag. More info [HERE](https://www.pocketprep.com/exams/isc2-cissp/?ref=peterzerger)
 
