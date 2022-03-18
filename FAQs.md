@@ -3,7 +3,7 @@
 - [What score on practice quizzes is good enough?](#what-score-on-practice-quizzes-is-good-enough)
 - [How do I test my readiness for a specific domain?](#how-do-i-test-my-readiness-for-a-specific-domain)
 - [Do the changes coming to the CAT Exam affect how I prepare?](#do-the-changes-coming-to-the-cat-exam-affect-how-i-prepare)
-- [How do I access the online resources that come wtih the CISSP exam study guide?](#how-do-i-access-the-online-resources-that-come-wtih-the-cissp-exam-study-guide) 
+- [How do I access the online resources that come with the CISSP exam study guide?](#how-do-i-access-the-online-resources-that-come-with-the-cissp-exam-study-guide) 
 - [Can I access online practice quizzes if I purchased the Kindle version?](#can-i-access-online-practice-quizzes-if-i-purchased-the-kindle-version)
 
 ### What score on practice quizzes is good enough? 
@@ -26,7 +26,7 @@ A complete list of book chapter to exam domain mappings is shown in the figure b
 
 ### Do the changes coming to the CAT Exam affect how I prepare?
 
-The short answer is "no". Before June 1, 2022, the exam contains 25 pretest (unscored) items. On June 1, 2022, the exam will be expanded to include 50 pretest (unscored) items, which will increase the minimum and maximum number of items you will need to respond to from 100-150 to 125-175 items during your exam. To allow for these additional items, the maximum exam administration time will increase from three hours to four hours. 
+The short answer is "no". Before June 1, 2022, the exam contains 25 pretest (unscored) items. On June 1, 2022, the exam will be expanded to include 50 pretest (unscored) items, which will increase the minimum and maximum number of items you will need to respond to from 100-150 to 125-175 items during your exam. To allow for these additional items, the maximum exam administration time will increase from three hours to four hours.
 
 [back to menu](#frequently-asked-questions)
 
@@ -34,7 +34,7 @@ The short answer is "no". Before June 1, 2022, the exam contains 25 pretest (uns
 
 [back to menu](#frequently-asked-questions)
 
-### How do I access the online resources that come wtih the CISSP exam study guide? 
+### How do I access the online resources that come with the CISSP exam study guide?
 
 Per the instructions in the book, you need to register your purchase at www.wiley.com/go/sybextestprep.
 

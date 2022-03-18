@@ -19,7 +19,7 @@ Homework from week 1 is:
 Homework from week 2 is: 
 
 1.	Take a practice quiz of Domain 12 questions (chapter 5) using the techniques we discussed in the week 2 study session. Record your score. *NOTE: If you missed the live session, first watch our practice question strategy discussion (~20 min) before taking your first quiz [HERE](https://youtu.be/Y7YfwYzHWa0?t=1080)*
-2.	Watch [DOMAIN 2](https://youtu.be/qMScJnHaC9s?t=5055) from my updated CISSP Exam Cram course. 
+2.	Watch [DOMAIN 2](https://youtu.be/_nyZhYnCNLA?t=5055) from my updated CISSP Exam Cram course. 
 3.	Take another practice quiz of Domain 2 (chapter 5) questions. How did you do?
 
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/Y7YfwYzHWa0)
