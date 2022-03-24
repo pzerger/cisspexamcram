@@ -32,7 +32,7 @@ Homework from week 3 is:
 
 1.	Take a practice quiz of Domain 3 questions (chapters 6-10) using the techniques we discussed in the week 3 study session (HERE). Record your score. 
 For help in creating a custom Domain 3 quiz, see step-by-step how-to [HERE](https://youtu.be/3PoFfQVca_0?t=507).
-2.	Watch DOMAIN 3 from my updated CISSP Exam Cram course.
+2.	Watch [DOMAIN 3](https://youtu.be/_nyZhYnCNLA?t=5966) from my updated CISSP Exam Cram course.
 3.	Take another practice quiz of Domain 3 (chapters 6-10) questions. How did you do?
 4.	As a refresher, wait 2-3 days, then watch [“CISSP Exam Cram - Cryptography Drill-Down”](https://youtu.be/8_NLPDRLfg4), then take the Chapter 6 and 7 quizzes.
 
