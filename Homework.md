@@ -26,7 +26,7 @@ Homework from week 2 is:
 
 **NOTE ON PRACTICE QUIZZES:** I think the practices quizzes that come with the Official CISSP Study Guide are all you need prepare for the exam. However, if you want more, I am a fan of [Pocket Prep](https://www.pocketprep.com/exams/isc2-cissp/?ref=peterzerger) for their mobile experience, per-domain scoring, answer explanations, re-take options, and small price tag. More info [HERE](https://www.pocketprep.com/exams/isc2-cissp/?ref=peterzerger)
 
-## WEEK 3 (DOMAIN 3)
+## WEEK 3 (DOMAIN 3) - March 23rd, 2022
 
 Homework from week 3 is:  
 
