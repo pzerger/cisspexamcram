@@ -27,7 +27,16 @@ Homework from week 2 is:
 **NOTE ON PRACTICE QUIZZES:** I think the practices quizzes that come with the Official CISSP Study Guide are all you need prepare for the exam. However, if you want more, I am a fan of [Pocket Prep](https://www.pocketprep.com/exams/isc2-cissp/?ref=peterzerger) for their mobile experience, per-domain scoring, answer explanations, re-take options, and small price tag. More info [HERE](https://www.pocketprep.com/exams/isc2-cissp/?ref=peterzerger)
 
 ## WEEK 3 (DOMAIN 3)
-Will be posted after session on March 23th 
+
+Homework from week 3 is:  
+
+1.	Take a practice quiz of Domain 3 questions (chapters 6-10) using the techniques we discussed in the week 3 study session (HERE). Record your score. 
+For help in creating a custom Domain 3 quiz, see step-by-step how-to [HERE](https://youtu.be/3PoFfQVca_0?t=507).
+2.	Watch DOMAIN 3 from my updated CISSP Exam Cram course.
+3.	Take another practice quiz of Domain 3 (chapters 6-10) questions. How did you do?
+4.	As a refresher, wait 2-3 days, then watch [“CISSP Exam Cram - Cryptography Drill-Down”](https://youtu.be/8_NLPDRLfg4), then take the Chapter 6 and 7 quizzes.
+
+**SESSION REPLAY:** Video available [HERE](https://youtu.be/3PoFfQVca_0)
 
 ## WEEK 4 (DOMAIN 4)
 Will be posted after session on March 30th 
