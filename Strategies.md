@@ -5,7 +5,7 @@ Here are some key concepts and resources to be aware of
 - [My recommended exam prep strategy](#my-recommended-exam-prep-strategy)
 - [How to access the free online resources](#how-to-access-the-free-online-resources)
 - [PDFs downloads of video content](#pdfs-downloads-of-video-content)
-- [The CISSP Mindset - How to "think like a manager"](#the-cissp-mindset---how-to-"think-like-a-manager")
+- [The CISSP Mindset - How to "think like a manager"](#the-cissp-mindset---how-to-think-like-a-manager)
 
 ## My recommended exam prep strategy
 
