@@ -1,6 +1,6 @@
 # Exam Preparation Strategy and Resources
 
-Here are some key concepts and resources to be aware of
+Here are some key concepts and resources to be aware of before you begin studying:
 
 - [My recommended exam prep strategy](#my-recommended-exam-prep-strategy)
 - [How to access the free online resources](#how-to-access-the-free-online-resources)
