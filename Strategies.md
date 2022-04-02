@@ -6,6 +6,7 @@ Here are some key concepts and resources to be aware of before you begin studyin
 - [How to access the free online resources](#how-to-access-the-free-online-resources)
 - [PDFs downloads of video content](#pdfs-downloads-of-video-content)
 - [The CISSP Mindset - How to "think like a manager"](#the-cissp-mindset---how-to-think-like-a-manager)
+- [back to main menu](https://github.com/pzerger/cisspexamcram/blob/main/README.md)
 
 ## My recommended exam prep strategy
 

@@ -4,6 +4,8 @@ I'll list homework assignments and follow-ups from the 8-week study group here.
 
 **NOTE:** Session replays may be edited down to summary/highlights, and will likely only be available for a limited time.
 
+[back to main menu](https://github.com/pzerger/cisspexamcram/blob/main/README.md)
+
 ## WEEK 1 (DOMAIN 1) - March 9th, 2022
 
 Homework for week 1 is: 
