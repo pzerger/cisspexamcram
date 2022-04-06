@@ -16,6 +16,8 @@ Homework for week 1 is:
 
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/bxyEKIigdRk)
 
+[back to top](#homework-and-session-replays)
+
 ## WEEK 2 (DOMAIN 2) - March 16th, 2022
 
 Homework for week 2 is: 
@@ -28,6 +30,8 @@ Homework for week 2 is:
 
 **NOTE ON PRACTICE QUIZZES:** I think the practices quizzes that come with the Official CISSP Study Guide are all you need prepare for the exam. However, if you want more, I am a fan of [Pocket Prep](https://www.pocketprep.com/exams/isc2-cissp/?ref=peterzerger) for their mobile experience, per-domain scoring, answer explanations, re-take options, and small price tag. More info [HERE](https://www.pocketprep.com/exams/isc2-cissp/?ref=peterzerger)
 
+[back to top](#homework-and-session-replays)
+
 ## WEEK 3 (DOMAIN 3) - March 23rd, 2022
 
 Homework for week 3 is:  
@@ -39,6 +43,8 @@ For help in creating a custom Domain 3 quiz, see step-by-step how-to [HERE](http
 4.	As a refresher, wait 2-3 days, then watch [“CISSP Exam Cram - Cryptography Drill-Down”](https://youtu.be/8_NLPDRLfg4), then take the Chapter 6 and 7 quizzes.
 
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/3PoFfQVca_0)
+
+[back to top](#homework-and-session-replays)
 
 ## WEEK 4 (DOMAIN 4) - March 30th, 2022
 
@@ -56,6 +62,7 @@ Homework for week 4 is:
 
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/ohnvzT5azoQ)
 
+[back to top](#homework-and-session-replays)
 
 ## WEEK 5 (DOMAIN 5)
 Will be posted after session on April 6th 
