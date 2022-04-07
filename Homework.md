@@ -64,8 +64,19 @@ Homework for week 4 is:
 
 [back to top](#homework-and-session-replays)
 
-## WEEK 5 (DOMAIN 5)
-Will be posted after session on April 6th 
+## WEEK 5 (DOMAIN 5) - April 6th, 2022
+
+Homework for week 5 is: 
+
+1.	Take a practice quiz of Domain 5 questions (chapters 13 and 14). Record your score.
+2.	Watch [DOMAIN 5](https://youtu.be/_nyZhYnCNLA?t=17818) from my updated CISSP Exam Cram course. 
+3.	Take another practice quiz of Domain 5 questions. How did you do?
+
+> **EXTRA CREDIT:** Watch the "CISSP Exam Cram: Physical Security Priciples" video [HERE](https://youtu.be/iZTOstBx1ac)
+
+**SESSION REPLAY:** Video available [HERE](https://youtu.be/qjH8UzCHr3g)
+
+[back to top](#homework-and-session-replays)
 
 ## WEEK 6 (DOMAIN 6)
 Will be posted after session on April 13th 
