@@ -72,7 +72,7 @@ Homework for week 5 is:
 2.	Watch [DOMAIN 5](https://youtu.be/_nyZhYnCNLA?t=17818) from my updated CISSP Exam Cram course. 
 3.	Take another practice quiz of Domain 5 questions. How did you do?
 
-> **EXTRA CREDIT:** Watch the "CISSP Exam Cram: Physical Security Priciples" video [HERE](https://youtu.be/iZTOstBx1ac)
+> **EXTRA CREDIT:** Watch the "CISSP Exam Cram: Physical Security Principles" video [HERE](https://youtu.be/iZTOstBx1ac)
 
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/qjH8UzCHr3g)
 
