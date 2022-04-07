@@ -71,7 +71,7 @@ Homework for week 5 is:
 1.	Take a practice quiz of Domain 5 questions (chapters 13 and 14). Record your score.
 2.	Watch [DOMAIN 5](https://youtu.be/_nyZhYnCNLA?t=17818) from my updated CISSP Exam Cram course. 
 3.	Take another practice quiz of Domain 5 questions. How did you do?
-4.  Revisit cryptography types and the asymmetric key exchange in Domain 3 [HERE](https://youtu.be/_nyZhYnCNLA?t=8746)
+4.  Revisit cryptography types and the asymmetric sequence in Domain 3 [HERE](https://youtu.be/_nyZhYnCNLA?t=8746)
 
 > **EXTRA CREDIT:** Watch the "CISSP Exam Cram: Physical Security Principles" video [HERE](https://youtu.be/iZTOstBx1ac)
 
