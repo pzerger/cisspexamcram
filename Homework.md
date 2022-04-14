@@ -94,7 +94,7 @@ Homework for week 6 is:
 
 1.	Take a practice quiz of Domain 6 questions (chapter 15). Record your score.
 2.	Watch [DOMAIN 6](https://www.youtube.com/watch?v=_nyZhYnCNLA&t=19821s) from my updated CISSP Exam Cram course. 
-3.	FLASHCARD REVIEW: Create a custom set of flashcards for Domain 6 to quiz yourself on this domain 
+3.	**FLASHCARD REVIEW:** Create a custom set of flashcards for Domain 6 to quiz yourself on this domain 
 4.  OR quiz yourself using the slides I covered in the Week 6 live session [HERE](https://1drv.ms/b/s!AmhtzcmYt5AViYJFY2ZNMA47jHsdnw?e=CQ18KN)
 
 > **EXTRA CREDIT:** Watch the "CISSP Exam Cram: Just the Formulas" risk analysis video [HERE](https://youtu.be/ttOKJYOedNo)
