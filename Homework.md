@@ -111,12 +111,12 @@ Homework for week 6 is:
 
 Homework for week 7 is: 
 
-1.	Take a practice quiz of Domain 7 questions (chapter 16-19). Review explanations of wrong answers. Record your score.
+1.	Take a practice quiz of Domain 7 questions (chapters 16-19). Review explanations of wrong answers. Record your score.
 2.	Watch [DOMAIN 7](https://youtu.be/_nyZhYnCNLA?t=20696) from my updated CISSP Exam Cram course. 
 3.  Watch the "CISSP Exam Cram: Models, Processes, and Frameworks" video [HERE](https://youtu.be/mLuLtIsDjK8)
 4.  Repeat practice quiz for Domain 7
    
-**SESSION REPLAY:** Video available [HERE](https://youtu.be/_QWKsWo3IBM)
+**SESSION REPLAY:** Video available [HERE]()
 
 [back to top](#homework-and-session-replays)
 
