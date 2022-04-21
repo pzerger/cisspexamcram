@@ -4,20 +4,14 @@ I'll list homework assignments and follow-ups from the 8-week study group here.
 
 ## Homework
 
-[WEEK 1 (Domain 1) - March 9th, 2022](#week-1-domain-1---march-9th-2022)
-
-[WEEK 2 (Domain 2) - March 16th, 2022](#week-2-domain-2---march-16th-2022)
-
-[WEEK 3 (Domain 3) - March 23rd, 2022](#week-3-domain-3---march-23rd-2022)
-
-[WEEK 4 (Domain 4) - March 30th, 2022](#week-4-domain-4---march-30th-2022)
-
-[WEEK 5 (Domain 5) - April 6th, 2022](#week-5-domain-5---april-6th-2022)
-
-[WEEK 6 (Domain 6) - April 13th, 2022](#week-6-domain-6---april-13th-2022)
-
-[WEEK 7 (Domain 7) - April 20th, 2022](#week-7-domain-7---april-20th-2022)
-
+  - [WEEK 1 (DOMAIN 1) - March 9th, 2022](#week-1-domain-1---march-9th-2022)
+  - [WEEK 2 (DOMAIN 2) - March 16th, 2022](#week-2-domain-2---march-16th-2022)
+  - [WEEK 3 (DOMAIN 3) - March 23rd, 2022](#week-3-domain-3---march-23rd-2022)
+  - [WEEK 4 (DOMAIN 4) - March 30th, 2022](#week-4-domain-4---march-30th-2022)
+  - [WEEK 5 (DOMAIN 5) - April 6th, 2022](#week-5-domain-5---april-6th-2022)
+  - [WEEK 6 (DOMAIN 6) - April 13th, 2022](#week-6-domain-6---april-13th-2022)
+  - [WEEK 7 (DOMAIN 7) - April 20th, 2022](#week-7-domain-7---april-20th-2022)
+  - [WEEK 8 (DOMAIN 8)](#week-8-domain-8)
 
 **NOTE:** Session replays will likely only be available for a limited time, but at least through the end of the 8-week study series.
 
