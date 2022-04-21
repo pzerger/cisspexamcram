@@ -105,6 +105,8 @@ Homework for week 6 is:
 
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/sJa04NyEKJI)
 
+[back to top](#homework-and-session-replays)
+
 ## WEEK 7 (DOMAIN 7) - April 20th, 2022
 
 Homework for week 7 is: 
@@ -115,6 +117,8 @@ Homework for week 7 is:
 4.  Repeat practice quiz for Domain 7
    
 **SESSION REPLAY:** Video available [HERE](https://youtu.be/_QWKsWo3IBM)
+
+[back to top](#homework-and-session-replays)
 
 ## WEEK 8 (DOMAIN 8)
 
