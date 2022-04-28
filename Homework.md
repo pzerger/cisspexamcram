@@ -1,6 +1,6 @@
 # Homework and Session Replays
 
-I'll list homework assignments and follow-ups from the 8-week study group here.
+Homework assignments and follow-ups from the 8-week study group are listed here.
 
 ## Homework
 
@@ -11,7 +11,7 @@ I'll list homework assignments and follow-ups from the 8-week study group here.
   - [WEEK 5 (DOMAIN 5) - April 6th, 2022](#week-5-domain-5---april-6th-2022)
   - [WEEK 6 (DOMAIN 6) - April 13th, 2022](#week-6-domain-6---april-13th-2022)
   - [WEEK 7 (DOMAIN 7) - April 20th, 2022](#week-7-domain-7---april-20th-2022)
-  - [WEEK 8 (DOMAIN 8)](#week-8-domain-8)
+  - [WEEK 8 (DOMAIN 8) - April 27th, 2022](#week-8-domain-8---april-27th-2022)
 
 **NOTE:** Session replays will likely only be available for a limited time, but at least through the end of the 8-week study series.
 
@@ -120,9 +120,17 @@ Homework for week 7 is:
 
 [back to top](#homework-and-session-replays)
 
-## WEEK 8 (DOMAIN 8)
+## WEEK 8 (DOMAIN 8) - April 27th, 2022
 
-Will be posted after session on April 27th
+Homework for week 8 is: 
+
+1.	Take a practice quiz of Domain 8 questions (chapters 20-21). Review explanations of wrong answers. Record your score.
+2.	Watch [DOMAIN 8](https://youtu.be/_nyZhYnCNLA?t=25669) from my updated CISSP Exam Cram course. 
+1.  Take one of the practice quizzes from OSG (which cover all 8 domains). How did you do? (90% for exam readiness!)
+   
+**SESSION REPLAY:** Video available [HERE](https://youtu.be/C1z8jniOlPE)
+
+[back to top](#homework-and-session-replays)
 
 
 Affiliate disclosure: I use affiliate links for some study resources above. Purchasing through these links gives me a small commission to support videos on our YouTube channel - the price to you is the same.
