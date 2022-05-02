@@ -1,5 +1,7 @@
 # Homework and Session Replays
 
+*The study group concluded on April 27th. Another live study group will be scheduled in the second half of 2022!*
+
 Homework assignments and follow-ups from the 8-week study group are listed here.
 
 ## Homework
