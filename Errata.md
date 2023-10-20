@@ -8,9 +8,9 @@
 
 ### Errata
 
-At 05:09:13 [CISSP Exam Cram Full Course (All 8 Domains) UPDATED - 2022 EDITION!]](https://youtu.be/_nyZhYnCNLA?si=obkO-vSdoD2G55AH&t=19155), 'intrusion detection system' is shown in a list of corrective controls. The list should include "intrustion prevention system" instead. An intrusion detection system is a detective security control.
+At 05:09:13 [CISSP Exam Cram Full Course (All 8 Domains) UPDATED - 2022 EDITION](https://youtu.be/_nyZhYnCNLA?si=obkO-vSdoD2G55AH&t=19155), 'intrusion detection system' is shown in a list of corrective controls. The list should include "intrustion prevention system" instead. An intrusion detection system is a detective security control.
 
-OCTOBER 19, 2023 - ISSUE: At 18:56 in the video, the acronym for Electronic Communications Privacy Act of 1986 contains two letters transposed - EPCA rather than ECPA. The full name and description are correct.
+OCTOBER 19, 2023 - ISSUE: At 18:56 in [CISSP Exam Cram Full Course (All 8 Domains) UPDATED - 2022 EDITION](https://youtu.be/_nyZhYnCNLA?si=obkO-vSdoD2G55AH&t=1136), the acronym for Electronic Communications Privacy Act of 1986 contains two letters transposed - EPCA rather than ECPA. The full name and description are correct.
 
 ## Official CISSP Exam Study Guide
 
