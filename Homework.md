@@ -42,6 +42,7 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 - Domain 1 is covered in chapters 1-4 of the OSG
 - Domain 1 is covered in chapter 1 of CISSP: The Last Mile
 
+[back to top](#homework-and-session-replays)
 
 ### WEEK 2 (DOMAIN 2) - July 17, 2025
 Will be posted after session.
@@ -84,6 +85,7 @@ Link for the full [CISSP Exam Prep 2025 YouTube playlist](https://www.youtube.co
 **Community**
 - [Discord (Cybersecurity Station)](https://discord.gg/Byh5A8k4)
 
+[back to top](#homework-and-session-replays)
 
 ## OVERALL EXAM PREP STRATEGY
 
@@ -96,8 +98,12 @@ Link for the full [CISSP Exam Prep 2025 YouTube playlist](https://www.youtube.co
 - **Practice quizzes**. Whether the Official Study Guide quizzes or 3rd party, quizzes are a great way to assess your progress and exam readiness.
 - **Flashcards**. Another way to make the most of techniques like spaced repetition and chunking.
 
+[back to top](#homework-and-session-replays)
 
 ## HOW TO SEND ME YOUR QUESTIONS
 
 You can submit your questions to me at https://bit.ly/askpetecissp
+
+[back to top](#homework-and-session-replays)
+
 
