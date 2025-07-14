@@ -22,7 +22,7 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 1.	**Exam Prep Strategy**. If you don't have your exam prep strategy together, watch one of these session clips 
 - [Exam prep strategy](https://youtu.be/aLIFzIBNM_8?si=HNRYY629n1J_vvx5&t=145) (~23 min) OR
 - [Exam prep (test anxiety, ADHS, PTSD)](https://youtu.be/sjsmjOfa3bw?si=m6tyei8W3L43fbGL&t=1341) (~37 min)
-- Then, watch []"Using practice quizzes to gauge your progress"](https://youtu.be/sjsmjOfa3bw?si=GRNhABUxSwRXGoh3&t=3586)
+- Then, watch ["Using practice quizzes to gauge your progress"](https://youtu.be/sjsmjOfa3bw?si=GRNhABUxSwRXGoh3&t=3586)
 2.	**Take a quiz**. Take a 20-30 question practice quiz from the Official Study Guide online resources to begin identifying weak areas. (Register for online quiz resources at  )
 - Register for online resources [HERE](http://www.wiley.com/go/sybextestprep).
 - After registration, access your online [HERE](https://study.learning.wiley.com/).
