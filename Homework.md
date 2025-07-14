@@ -36,8 +36,8 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 - [CISSP Mindset (think like a manager)](https://youtu.be/vfC9OLsCqgk?si=-D_FSrngMMaEszLE)
 - [CISSP Risk Analysis Formula Walkthrough](https://youtu.be/ttOKJYOedNo?si=LgERRMpTJBahqh2N)
 4.	**Live Quiz/PDF review**. Download the PDFs from the full CISSP Exam Cram videos to review Domain 1 concepts
-- CISSP Exam Cram Full Course PDFs [for each domain, HERE](https://www.youtube.com/watch?v=_nyZhYnCNLA&t=1382s)
-- CISSP Exam Cram 2024 Addendum PDF(https://1drv.ms/b/s!AmhtzcmYt5AVif93c3IIKpBCIdUbgQ?e=cXTOiI)
+- CISSP Exam Cram Full Course PDFs [for each domain, in video description HERE](https://www.youtube.com/watch?v=_nyZhYnCNLA&t=1382s)
+- CISSP Exam Cram 2024 Addendum PDF [HERE](https://1drv.ms/b/s!AmhtzcmYt5AVif93c3IIKpBCIdUbgQ?e=cXTOiI)
 5.	**Targeted reading**. Get into the OSG and do some reading on Domain 1 subjects where you know you need to ramp up. 
 - Domain 1 is covered in chapters 1-4 of the OSG
 - Domain 1 is covered in chapter 1 of CISSP: The Last Mile
