@@ -12,7 +12,7 @@ I'll list homework assignments and follow-ups from the 8-week study group here. 
 
 ### WEEK 1 (DOMAIN 1) - July 10, 2025
 
-**Session replay:** Video available [HERE]([https://youtu.be/bxyEKIigdRk](https://youtu.be/lN6viZ4W9Zw))
+**Session replay:** Video available [HERE](https://youtu.be/lN6viZ4W9Zw)
 Session PDF: Download [HERE]([https://youtu.be/lN6viZ4W9Zw](https://1drv.ms/b/c/1590b798c9cd6d68/ERibyVL-qCtCsdz7vVr-ZfoBw6bH_4nofJYDmbP8LmtecA?e=1HpBHh))
 
 **HOMEWORK:** 
