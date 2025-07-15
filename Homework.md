@@ -73,7 +73,7 @@ Recommended Study Materials
 **Books** 
 - [Official Study Guide (Sybex)](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD)
 - [CISSP: The Last Mile](https://leanpub.com/cissplastmile) (currently $10 on Leanpub)
-- Practice Tests (Sybex), optional but recommended
+- [Practice Tests (Sybex)](https://amzn.to/4nKSKr3), optional but recommended
 
 **Videos**
 Link for the full [CISSP Exam Prep 2025 YouTube playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD)
