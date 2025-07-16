@@ -79,8 +79,8 @@ Recommended Study Materials
 Link for the full [CISSP Exam Prep 2025 YouTube playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD)
 
 **Optional (nice-to-have)**
-- [Pocket Prep](https://pocketprep.sjv.io/cism) (flexible for testing knowledge) 
--[Quantum Exams](https://www.quantumexams.com/) (simulates exam difficulty)
+- [Pocket Prep](https://pocketprep.sjv.io/cism) (flexible for testing knowledge)
+- [Quantum Exams](https://www.quantumexams.com/) (simulates exam difficulty)
 - [Exam Prep Flashcards](https://insidethemicrosoftcloud/flashcards)
 
 **Community**
