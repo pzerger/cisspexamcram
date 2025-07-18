@@ -58,8 +58,8 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 2. **Live Quiz/PDF review**. Review the PDF from the Week 2 session, or do some live quizzing if you have a partner/spouse to ask you questions.
 
 3.	**Targeted reading**. Open the OSG or CISSP: The Last Mile and do some reading on Domain 2 subjects you struggled with in the quiz.
-  - Domain 2 is covered in chapters 5 and 16 of the OSG.
-  - Domain 2 is covered in chapter 2 of CISSP: The Last Mile.
+    - Domain 2 is covered in chapters 5 and 16 of the OSG.
+    - Domain 2 is covered in chapter 2 of CISSP: The Last Mile.
 
 ### WEEK 3 (DOMAIN 3) - July 24, 2025
 Will be posted after session.
