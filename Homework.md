@@ -14,7 +14,7 @@ I'll list homework assignments and follow-ups from the 8-week study group here. 
 
 **Session replay:** Video available [HERE](https://youtu.be/lN6viZ4W9Zw)
 
-Session PDF: Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/ERibyVL-qCtCsdz7vVr-ZfoBw6bH_4nofJYDmbP8LmtecA?e=1HpBHh)
+**Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/ERibyVL-qCtCsdz7vVr-ZfoBw6bH_4nofJYDmbP8LmtecA?e=1HpBHh)
 
 **HOMEWORK:** 
 
@@ -46,7 +46,20 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 [back to top](#homework-and-session-replays)
 
 ### WEEK 2 (DOMAIN 2) - July 17, 2025
-Will be posted after session.
+
+**Session replay:** Video available [HERE](https://youtu.be/pj7DUTJYfmQ)
+
+**Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/ESXAJ3_grElPiyIxJEh6ej8BhEIGg2UAoz8nYYZN6D4-eg?e=v5nhRz)
+
+1. **Take a quiz**. Take a 20 question practice quiz for Domain 2 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cism)) to begin identifying weak areas.
+
+> **NOTE:** Remember to track your time in the quiz. Your exam day goal is to answer questions in ~75 seconds each.
+
+2. **Live Quiz/PDF review**. Review the PDF from the Week 2 session, or do some live quizzing if you have a partner/spouse to ask you questions.
+
+3.	**Targeted reading**. Open the OSG or CISSP: The Last Mile and do some reading on Domain 2 subjects you struggled with in the quiz.
+  - Domain 2 is covered in chapters 5 and 16 of the OSG.
+  - Domain 2 is covered in chapter 2 of CISSP: The Last Mile.
 
 ### WEEK 3 (DOMAIN 3) - July 24, 2025
 Will be posted after session.
