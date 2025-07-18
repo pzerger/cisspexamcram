@@ -51,7 +51,7 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 
 **Session replay:** Video available [HERE](https://youtu.be/pj7DUTJYfmQ)
 
-**Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/ESXAJ3_grElPiyIxJEh6ej8BhEIGg2UAoz8nYYZN6D4-eg?e=E81wul)
+**Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/ESXAJ3_grElPiyIxJEh6ej8BhEIGg2UAoz8nYYZN6D4-eg?e=3mMf3k)
 
 1. **Take a quiz**. Take a 20 question practice quiz for Domain 2 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cism)) to begin identifying weak areas.
 
