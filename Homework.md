@@ -4,6 +4,8 @@
 I'll list homework assignments and follow-ups from the 8-week study group here. Replays will be available for 12 weeks after the live session.
 
 - [SESSION REPLAYS](#session-replays)
+  - [WEEK 1](#week-1-domain-2---july-10-2025)
+  - [WEEK 2](#week-2-domain-2---july-17-2025)
 - [RECOMMENDED STUDY MATERIALS](#recommended-study-materials)
 - [OVERALL EXAM PREP STRATEGY](#overall-exam-prep-strategy)
 - [HOW TO SEND ME YOUR QUESTIONS](#how-to-send-me-your-questions)
@@ -60,6 +62,8 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 3.	**Targeted reading**. Open the OSG or CISSP: The Last Mile and do some reading on Domain 2 subjects you struggled with in the quiz.
     - Domain 2 is covered in chapters 5 and 16 of the OSG.
     - Domain 2 is covered in chapter 2 of CISSP: The Last Mile.
+
+[back to top](#homework-and-session-replays)
 
 ### WEEK 3 (DOMAIN 3) - July 24, 2025
 Will be posted after session.
