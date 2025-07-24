@@ -12,7 +12,7 @@ I'll list homework assignments and follow-ups from the 8-week study group here. 
 - [HOW TO SEND ME YOUR QUESTIONS](#how-to-send-me-your-questions)
 
 ## Bulletins
-July 24 - Some users reported trouble with the Week 2 PDF link. The link has been updated and is again accessible.
+- July 24 - Some users reported trouble with the Week 2 PDF link. The link has been updated and is again accessible.
 
 ## SESSION REPLAYS
 
