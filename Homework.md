@@ -72,7 +72,28 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 [back to top](#homework-and-session-replays)
 
 ### WEEK 3 (DOMAIN 3) - July 24, 2025
-Will be posted after session.
+
+**Session replay:** Video available [HERE](https://youtu.be/Kp9m0pFjf4o)
+
+**Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/EZkNdQHLxyhKv9BbowCOiEQBMEpsidbAknq6o776P7Cfrw?e=OLD1K8) (This is 200+ slides on Domain 3 topics)
+
+**HOMEWORK:** 
+
+Domain 3 is the largest domain on the exam, so you may need to spend a bit more time on this one.
+
+1. **Take a quiz**. Take a 20-30 question practice quiz for Domain 3 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cism)) to begin identifying weak areas.
+
+> **REMINDER:** Remember to work on your time management as you take quizzes (exam goal of ~75 seconds/question).
+
+2. **Live Quiz/PDF review**. Review the PDF from the Week 3 session (200+ slides), or do some live quizzing if you have a partner/spouse to ask you questions.
+
+3. **Try another quiz**. Try another 20-30 domain 3 questions . 
+
+4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 3 quizzes.
+
+In time allows, watch another video from the CISSP 2025 playlist
+
+[back to top](#homework-and-session-replays)
 
 ### WEEK 4 (DOMAIN 4) - July 31, 2025
 Will be posted after session.
