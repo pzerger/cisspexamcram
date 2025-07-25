@@ -92,7 +92,7 @@ Domain 3 is the largest domain on the exam, so you may need to spend a bit more 
 
 4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 3 quizzes.
 
-In time allows, watch another video from the CISSP 2025 playlist
+5. In time allows, watch another video from the CISSP 2025 playlist. 
 
 [back to top](#homework-and-session-replays)
 
