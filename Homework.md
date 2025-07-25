@@ -7,6 +7,7 @@ I'll list homework assignments and follow-ups from the 8-week study group here. 
 - [SESSION REPLAYS](#session-replays)
   - [WEEK 1](#week-1-domain-1---july-10-2025)
   - [WEEK 2](#week-2-domain-2---july-17-2025)
+  - [WEEK 3](#week-3-domain-3---july-24-2025)
 - [RECOMMENDED STUDY MATERIALS](#recommended-study-materials)
 - [OVERALL EXAM PREP STRATEGY](#overall-exam-prep-strategy)
 - [HOW TO SEND ME YOUR QUESTIONS](#how-to-send-me-your-questions)
