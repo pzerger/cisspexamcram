@@ -57,6 +57,8 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 
 **Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/ESXAJ3_grElPiyIxJEh6ej8BhEIGg2UAoz8nYYZN6D4-eg?e=CSVKuA)
 
+**HOMEWORK:** 
+
 1. **Take a quiz**. Take a 20 question practice quiz for Domain 2 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cism)) to begin identifying weak areas.
 
 > **NOTE:** Remember to track your time in the quiz. Your exam day goal is to answer questions in ~75 seconds each.
