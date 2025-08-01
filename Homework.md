@@ -99,7 +99,7 @@ Domain 3 is the largest domain on the exam, so you may need to spend a bit more 
 
 ### WEEK 4 (DOMAIN 4) - July 31, 2025
 
-**Session replay:** Video available [HERE](https://youtu.be/Kp9m0pFjf4o)
+**Session replay:** Video available [HERE](https://youtu.be/163AByVFef8)
 
 **Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/EWrGEMOy7bBOn9C_Xs7dhmkBbpdfQKoJ1HBYphCVDiiaRQ?e=B3gFu6) 
 
