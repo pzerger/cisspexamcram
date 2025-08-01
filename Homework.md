@@ -8,6 +8,7 @@ I'll list homework assignments and follow-ups from the 8-week study group here. 
   - [WEEK 1](#week-1-domain-1---july-10-2025)
   - [WEEK 2](#week-2-domain-2---july-17-2025)
   - [WEEK 3](#week-3-domain-3---july-24-2025)
+  - [WEEK 4](#week-4-domain-4---july-31-2025)
 - [RECOMMENDED STUDY MATERIALS](#recommended-study-materials)
 - [OVERALL EXAM PREP STRATEGY](#overall-exam-prep-strategy)
 - [HOW TO SEND ME YOUR QUESTIONS](#how-to-send-me-your-questions)
@@ -60,7 +61,7 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 
 **HOMEWORK:** 
 
-1. **Take a quiz**. Take a 20 question practice quiz for Domain 2 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cissp)) to begin identifying weak areas.
+1. **Take a quiz**. Take a 20 question practice quiz for Domain 2 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cism)) to begin identifying weak areas.
 
 > **NOTE:** Remember to track your time in the quiz. Your exam day goal is to answer questions in ~75 seconds each.
 
@@ -82,7 +83,7 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 
 Domain 3 is the largest domain on the exam, so you may need to spend a bit more time on this one.
 
-1. **Take a quiz**. Take a 20-30 question practice quiz for Domain 3 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cissp)) to begin identifying weak areas.
+1. **Take a quiz**. Take a 20-30 question practice quiz for Domain 3 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cism)) to begin identifying weak areas.
 
 > **REMINDER:** Remember to work on your time management as you take quizzes (exam goal of ~75 seconds/question).
 
@@ -97,7 +98,34 @@ Domain 3 is the largest domain on the exam, so you may need to spend a bit more 
 [back to top](#homework-and-session-replays)
 
 ### WEEK 4 (DOMAIN 4) - July 31, 2025
-Will be posted after session.
+
+**Session replay:** Video available [HERE](https://youtu.be/Kp9m0pFjf4o)
+
+**Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/EWrGEMOy7bBOn9C_Xs7dhmkBbpdfQKoJ1HBYphCVDiiaRQ?e=B3gFu6) 
+
+**HOMEWORK:** 
+
+We're halfway through the 8 domains, so in addition to building your knowledge of exam topics, it's time start refining your approach to answering exam questions.
+
+Domain 4 focuses on network technologies and protocols, so if you don't have much exposure to networking, you may need to spend a bit more time on this one.
+
+1. **Take a quiz**. Take a 20-30 question practice quiz for Domain 4 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cissp)) to begin identifying weak areas.
+
+**SIDE NOTE:** Have you watched my video ["Ultimate Guide to Answering Difficult Questions (READ Strategy)"](https://youtu.be/D89-7rTFgw4)? It will definitely help with ***both** time management and answer selection!* 
+
+> **REMINDER:** Remember to work on your time management as you take quizzes (exam goal of ~75 seconds/question).
+
+2. **Live Quiz/PDF review**. Review the PDF from the Week 4 session, or do some live quizzing if you have a partner/spouse to ask you questions.
+
+3. **Try another quiz**. Try another 20-30 domain 4 questions. 
+
+4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 4 quizzes. Domain 4 is 
+  - Chapter 4 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). The ToC matches the exam syllabus, so it's easy to find your topics.
+  - Domain 4 is covered in Chapters 11 and 12 in the Official Study Guide
+
+5. In time allows, watch another video from the CISSP 2025 playlist. My [CISSP Mindset](https://youtu.be/vfC9OLsCqgk) video is a good use of 30 minutes! 
+
+[back to top](#homework-and-session-replays)
 
 ### WEEK 5 (DOMAIN 5) - Auguest 7, 2025
 Will be posted after session.
@@ -124,7 +152,7 @@ Recommended Study Materials
 Link for the full [CISSP Exam Prep 2025 YouTube playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD)
 
 **Optional (nice-to-have)**
-- [Pocket Prep](https://pocketprep.sjv.io/cissp) (flexible for testing knowledge)
+- [Pocket Prep](https://pocketprep.sjv.io/cism) (flexible for testing knowledge)
 - [Quantum Exams](https://www.quantumexams.com/) (simulates exam difficulty)
 - [Exam Prep Flashcards](https://insidethemicrosoftcloud/flashcards)
 
