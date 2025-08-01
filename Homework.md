@@ -60,7 +60,7 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 
 **HOMEWORK:** 
 
-1. **Take a quiz**. Take a 20 question practice quiz for Domain 2 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cism)) to begin identifying weak areas.
+1. **Take a quiz**. Take a 20 question practice quiz for Domain 2 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cissp)) to begin identifying weak areas.
 
 > **NOTE:** Remember to track your time in the quiz. Your exam day goal is to answer questions in ~75 seconds each.
 
@@ -82,7 +82,7 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 
 Domain 3 is the largest domain on the exam, so you may need to spend a bit more time on this one.
 
-1. **Take a quiz**. Take a 20-30 question practice quiz for Domain 3 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cism)) to begin identifying weak areas.
+1. **Take a quiz**. Take a 20-30 question practice quiz for Domain 3 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cissp)) to begin identifying weak areas.
 
 > **REMINDER:** Remember to work on your time management as you take quizzes (exam goal of ~75 seconds/question).
 
@@ -124,7 +124,7 @@ Recommended Study Materials
 Link for the full [CISSP Exam Prep 2025 YouTube playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD)
 
 **Optional (nice-to-have)**
-- [Pocket Prep](https://pocketprep.sjv.io/cism) (flexible for testing knowledge)
+- [Pocket Prep](https://pocketprep.sjv.io/cissp) (flexible for testing knowledge)
 - [Quantum Exams](https://www.quantumexams.com/) (simulates exam difficulty)
 - [Exam Prep Flashcards](https://insidethemicrosoftcloud/flashcards)
 
