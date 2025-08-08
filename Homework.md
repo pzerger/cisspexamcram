@@ -9,6 +9,7 @@ I'll list homework assignments and follow-ups from the 8-week study group here. 
   - [WEEK 2](#week-2-domain-2---july-17-2025)
   - [WEEK 3](#week-3-domain-3---july-24-2025)
   - [WEEK 4](#week-4-domain-4---july-31-2025)
+  - [WEEK 5](#week-5-domain-5---august-7-2025)
 - [RECOMMENDED STUDY MATERIALS](#recommended-study-materials)
 - [OVERALL EXAM PREP STRATEGY](#overall-exam-prep-strategy)
 - [HOW TO SEND ME YOUR QUESTIONS](#how-to-send-me-your-questions)
@@ -127,16 +128,42 @@ Domain 4 focuses on network technologies and protocols, so if you don't have muc
 
 [back to top](#homework-and-session-replays)
 
-### WEEK 5 (DOMAIN 5) - Auguest 7, 2025
+### WEEK 5 (DOMAIN 5) - August 7, 2025
+
+**Session replay:** Video available [HERE](https://youtu.be/Y1oY1SRHJ9s)
+
+**Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/EVqazx4ePVlHlw2TkHroQbIBI5pSRko8XKR2NIJSzznq1w?e=Nc8Hz7) 
+
+**HOMEWORK:** 
+
+Domain 5 focuses on identity and access management. Details of zero trust surface in 5.4.7. The promised resources, including my zero trust video snippet with adaptive authentication demo are listed under "Zero Trust Resources" below.
+
+1. **Take a quiz**. Take a 20-30 question practice quiz for Domain 5 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cissp)) to begin identifying weak areas.
+
+> **IMPORTANT:** Are you working on time management as you take quizzes? Remember, your exam goal is ~75 seconds/question.
+
+2. **Live Quiz/PDF review**. Review the PDF from the Week 5 session, or do some live quizzing if you have a partner/spouse to ask you questions.
+
+3. **Try another quiz**. Try another 20-30 domain 5 questions. Try to get through questions in exam day per-question time goals using my [READ Strategy](https://youtu.be/D89-7rTFgw4?si=bOXymWjBVOvzZmHz&t=388)
+
+4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 5 quizzes. Domain 5 is 
+  - Chapter 5 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). The ToC matches the exam syllabus, so it's easy to find your topics.
+  - Domain 5 is covered in Chapters 13 and 14 in the Official Study Guide
+
+#### Zero Trust Resources
+If you're interested in reading more on zero trust see [NIST SP 800-207](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf). You'll recognize concepts I covered in the domain 5 session.
+
+[Zero Trust w/ short demo](https://youtu.be/SmzTNZwJnIw?si=f7P8jdel2Km-8WN-&t=1542). This is from my from my Security+ course, but literally the identical subject matter covered on CISSP.
+
+[back to top](#homework-and-session-replays)
+
+### WEEK 6 (DOMAIN 6) - August 14, 2025
 Will be posted after session.
 
-### WEEK 6 (DOMAIN 6) - Auguest 14, 2025
+### WEEK 7 (DOMAIN 7) - August 21, 2025
 Will be posted after session.
 
-### WEEK 7 (DOMAIN 7) - Auguest 21, 2025
-Will be posted after session.
-
-### WEEK 8 (DOMAIN 8) - Auguest 28, 2025
+### WEEK 8 (DOMAIN 8) - August 28, 2025
 Will be posted after session.
 
 Recommended Study Materials
