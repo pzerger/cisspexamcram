@@ -49,8 +49,8 @@ To avoid wasting time, it's important to make sure you know where your weak spot
 - CISSP Exam Cram Full Course PDFs [for each domain, in video description HERE](https://www.youtube.com/watch?v=_nyZhYnCNLA&t=1382s)
 - CISSP Exam Cram 2024 Addendum PDF [HERE](https://1drv.ms/b/s!AmhtzcmYt5AVif93c3IIKpBCIdUbgQ?e=cXTOiI)
 5.	**Targeted reading**. Get into the OSG and do some reading on Domain 1 subjects where you know you need to ramp up. 
-- Domain 1 is covered in chapters 1-4 of the OSG
-- Domain 1 is covered in chapter 1 of CISSP: The Last Mile
+    - Domain 1 is covered in chapters 1-4 of the OSG
+    - Domain 1 is covered in chapter 1 of CISSP: The Last Mile
 
 [back to top](#homework-and-session-replays)
 
@@ -121,8 +121,8 @@ Domain 4 focuses on network technologies and protocols, so if you don't have muc
 3. **Try another quiz**. Try another 20-30 domain 4 questions. 
 
 4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 4 quizzes. Domain 4 is 
-  - Chapter 4 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). The ToC matches the exam syllabus, so it's easy to find your topics.
-  - Domain 4 is covered in Chapters 11 and 12 in the Official Study Guide
+    - Chapter 4 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). The ToC matches the exam syllabus, so it's easy to find your topics.
+    - Domain 4 is covered in Chapters 11 and 12 in the Official Study Guide
 
 5. In time allows, watch another video from the CISSP 2025 playlist. My [CISSP Mindset](https://youtu.be/vfC9OLsCqgk) video is a good use of 30 minutes! 
 
