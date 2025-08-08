@@ -153,9 +153,8 @@ Domain 5 focuses on identity and access management. Details of zero trust surfac
     - Domain 5 is covered in Chapters 13 and 14 in the Official Study Guide
 
 #### Zero Trust Resources
-If you're interested in reading more on zero trust see [NIST SP 800-207](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf). You'll recognize concepts I covered in the domain 5 session.
-
-[Zero Trust w/ short demo](https://youtu.be/SmzTNZwJnIw?si=f7P8jdel2Km-8WN-&t=1542). This is from my from my Security+ course, but literally the identical subject matter covered on CISSP.
+- [VIDEO: Zero Trust w/ short demo](https://youtu.be/SmzTNZwJnIw?si=f7P8jdel2Km-8WN-&t=1542). This is from my from my Security+ course, but literally the identical subject matter covered on CISSP.
+- If you're interested in reading more on zero trust see [NIST SP 800-207](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf). You'll recognize concepts I covered in the domain 5 session.
 
 [back to top](#homework-and-session-replays)
 
