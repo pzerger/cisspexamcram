@@ -147,8 +147,8 @@ Domain 5 focuses on identity and access management. Details of zero trust surfac
 3. **Try another quiz**. Try another 20-30 domain 5 questions. Try to get through questions in exam day per-question time goals using my [READ Strategy](https://youtu.be/D89-7rTFgw4?si=bOXymWjBVOvzZmHz&t=388)
 
 4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 5 quizzes. Domain 5 is 
-  - Chapter 5 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). The ToC matches the exam syllabus, so it's easy to find your topics.
-  - Domain 5 is covered in Chapters 13 and 14 in the Official Study Guide
+    - Chapter 5 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). The ToC matches the exam syllabus, so it's easy to find your topics.
+    - Domain 5 is covered in Chapters 13 and 14 in the Official Study Guide
 
 #### Zero Trust Resources
 If you're interested in reading more on zero trust see [NIST SP 800-207](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf). You'll recognize concepts I covered in the domain 5 session.
