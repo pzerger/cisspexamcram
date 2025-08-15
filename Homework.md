@@ -124,7 +124,7 @@ Domain 4 focuses on network technologies and protocols, so if you don't have muc
 3. **Try another quiz**. Try another 20-30 domain 4 questions. 
 
 4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 4 quizzes. Domain 4 is 
-    - Chapter 4 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). The ToC matches the exam syllabus, so it's easy to find your topics.
+    - Chapter 4 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). 
     - Domain 4 is covered in Chapters 11 and 12 in the Official Study Guide
 
 5. In time allows, watch another video from the CISSP 2025 playlist. My [CISSP Mindset](https://youtu.be/vfC9OLsCqgk) video is a good use of 30 minutes! 
@@ -151,7 +151,7 @@ Domain 5 focuses on identity and access management. Details of zero trust surfac
 
 4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 5 quizzes.
 
-    - Domain 5 is chapter 5 is in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). The ToC matches the exam syllabus, so it's easy to find your topics.
+    - Domain 5 is chapter 5 is in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). 
     - Domain 5 is covered in Chapters 13 and 14 in the Official Study Guide
 
 #### Zero Trust Resources
@@ -180,7 +180,7 @@ Domain 6 is one of the shortest domains, focusing on "Security Assessment and Te
 
 4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 6 quizzes.
 
-    - Domain 6 is chapter 6 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). The ToC matches the exam syllabus, so it's easy to find your topics.
+    - Domain 6 is chapter 6 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). 
     - Domain 6 is covered in Chapter 15 in the Official Study Guide
 
 [back to top](#homework-and-session-replays)
