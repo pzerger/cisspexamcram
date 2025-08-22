@@ -237,7 +237,7 @@ Link for the full [CISSP Exam Prep 2025 YouTube playlist](https://www.youtube.co
 - [Exam Prep Flashcards](https://insidethemicrosoftcloud/flashcards)
 
 **Community**
-- [Discord (Cybersecurity Station)](https://discord.gg/certstation)
+- [Discord (Cybersecurity Station)](https://discord.gg/JbU5HVfd)
 
 [back to top](#homework-and-session-replays)
 
