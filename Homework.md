@@ -11,6 +11,7 @@ I'll list homework assignments and follow-ups from the 8-week study group here. 
   - [WEEK 4](#week-4-domain-4---july-31-2025)
   - [WEEK 5](#week-5-domain-5---august-7-2025)
   - [WEEK 6](#week-6-domain-6---august-14-2025)
+  - [WEEK 7](#week-7-domain-7---august-21-2025)
 - [RECOMMENDED STUDY MATERIALS](#recommended-study-materials)
 - [OVERALL EXAM PREP STRATEGY](#overall-exam-prep-strategy)
 - [HOW TO SEND ME YOUR QUESTIONS](#how-to-send-me-your-questions)
@@ -186,7 +187,34 @@ Domain 6 is one of the shortest domains, focusing on "Security Assessment and Te
 [back to top](#homework-and-session-replays)
 
 ### WEEK 7 (DOMAIN 7) - August 21, 2025
-Will be posted after session.
+
+This is a big domain, with some of the most interesting topics! Forensic investigation and evidence handling, as well as incident management; two of my favorites.
+
+> **NOTE:** Make sure to review the ***incident management*** reading I shared below. It gives you just what you need for the exam!
+
+**Session replay:** Video available [HERE](https://youtu.be/1W-MxGY85UM)
+
+**Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/EY2kBSKJ4cFOjflLdXSZlVIBpFP3HhU_wbwVabJr7yaNbQ?e=0FS9Lt) 
+
+**HOMEWORK:**
+
+1. **Take a quiz**. Take a 20-30 question practice quiz for Domain 7 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cissp)) to begin identifying weak areas.
+
+> **IMPORTANT:** Are you working on time management as you take quizzes? Remember, your exam goal is ~75 seconds/question.
+
+2. **Live Quiz/PDF review**. Review the PDF from the Week 7 session, or do some live quizzing if you have a partner/spouse to ask you questions.
+
+3. **Try another quiz**. Try another 20-30 domain 7 questions. Try to get through questions in exam day per-question time goals using my [READ Strategy](https://youtu.be/D89-7rTFgw4?si=bOXymWjBVOvzZmHz&t=388)
+
+4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 7 quizzes. HOWEVER, I have a special piece of content for you this week on incident management that will be well work 10-15 minutes of your time (link below).
+
+    - Domain 7 is chapter 7 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). 
+    - Domain 7 is covered in Chapters 16 – 19 in the Official Study Guide
+
+    - **Incident Management (CISSP focus):** In this 11-page document, I've extracted the details you need for incident management for the CISSP exam. Access it [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/EWhtzcmYt5AggBXvigIAAAABBFOfLi1OBlEM495VohFlXA?e=cgxVwd).
+
+[back to top](#homework-and-session-replays)
+
 
 ### WEEK 8 (DOMAIN 8) - August 28, 2025
 Will be posted after session.
