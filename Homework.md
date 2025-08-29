@@ -1,7 +1,7 @@
 # CISSP Exam Prep LIVE 2025 (8-week series)
 ## Homework and Session Replays
 
-I'll list homework assignments and follow-ups from the 8-week study group here. Replays will be available for 12 weeks after the live session.
+I'll list homework assignments and follow-ups from the 8-week study group here. Replays will be available fo approximately 12 weeks after the live session.
 
 - [Bulletins](bulletins)
 - [SESSION REPLAYS](#session-replays)
@@ -12,6 +12,7 @@ I'll list homework assignments and follow-ups from the 8-week study group here. 
   - [WEEK 5](#week-5-domain-5---august-7-2025)
   - [WEEK 6](#week-6-domain-6---august-14-2025)
   - [WEEK 7](#week-7-domain-7---august-21-2025)
+  - [WEEK 8](#week-8-domain-8---august-28-2025)
 - [RECOMMENDED STUDY MATERIALS](#recommended-study-materials)
 - [OVERALL EXAM PREP STRATEGY](#overall-exam-prep-strategy)
 - [HOW TO SEND ME YOUR QUESTIONS](#how-to-send-me-your-questions)
@@ -217,9 +218,29 @@ This is a big domain, with some of the most interesting topics! Forensic investi
 
 
 ### WEEK 8 (DOMAIN 8) - August 28, 2025
-Will be posted after session.
 
-Recommended Study Materials
+This domain focuses on software development security, which is unfamiliar territory for many CISSP candidates. I intentionally tried to weave real-world anecdotes into this weeks lecture to provide additional context.
+
+**Session replay:** Video available [HERE](https://youtu.be/FHAipmc2ZU4)
+
+**Session PDF:** Download [HERE](https://1drv.ms/b/c/1590b798c9cd6d68/EeDrCLpTW0pBp_sjQbygq0EB14mSfuiB-I9hOkPoJrIquQ?e=mxcaZA) 
+
+**HOMEWORK:**
+
+1. **Take a quiz**. Take a 20-30 question practice quiz for Domain 8 from the Official Study Guide online resources (or [Pocket Prep](https://pocketprep.sjv.io/cissp)) to begin identifying weak areas.
+
+> **IMPORTANT:** Are you working on time management as you take quizzes? Remember, your exam goal is ~75 seconds/question.
+
+2. **Live Quiz/PDF review**. Review the PDF from the Week 8 session, or do some live quizzing if you have a partner/spouse to ask you questions.
+
+3. **Try another quiz**. Try another 20-30 domain 8 questions. Try to get through questions in exam day per-question time goals using my [READ Strategy](https://youtu.be/D89-7rTFgw4?si=bOXymWjBVOvzZmHz&t=388)
+
+4.	**Targeted reading**. As always, do some targeted reading to brush up on your weak subjects from Domain 8 quizzes. 
+
+    - Domain 8 is chapter 8 in [CISSP: The Last Mile](https://leanpub.com/cissplastmile). 
+    - Domain 8 is covered in Chapters 20 – 21 in the Official Study Guide
+
+[back to top](#homework-and-session-replays)
 
 ## RECOMMENDED STUDY MATERIALS
 
