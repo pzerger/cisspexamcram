@@ -219,7 +219,7 @@ This is a big domain, with some of the most interesting topics! Forensic investi
 
 ### WEEK 8 (DOMAIN 8) - August 28, 2025
 
-This domain focuses on software development security, which is unfamiliar territory for many CISSP candidates. I intentionally tried to weave real-world anecdotes into this weeks lecture to provide additional context.
+This domain focuses on software development security, which is unfamiliar territory for many CISSP candidates. I intentionally tried to weave real-world anecdotes into this week's lecture to provide additional context.
 
 **Session replay:** Video available [HERE](https://youtu.be/FHAipmc2ZU4)
 
